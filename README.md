@@ -8,7 +8,6 @@ This project has been implemented using the golang clean architecture comprising
 To build this project using Docker, run:
 
 ```
-cd fetch-backend
 docker build -t receipt-processor .
 ```
 
